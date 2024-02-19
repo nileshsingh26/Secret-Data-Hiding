@@ -45,4 +45,4 @@ This project was created by Nilesh Kumar Singh
 If you have any questions or issues, please contact [30131csiot@gmail.com].
 
 
-To see further more steps how it works go to the given link-
+To see further more steps how it works go to the given link-  https://github.com/nileshsingh26/Secret-Data-Hiding
